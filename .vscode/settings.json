@@ -1,0 +1,16 @@
+{
+    "files.associations": {
+        "types.h": "c",
+        "lib.h": "c",
+        "errno.h": "c",
+        "random": "c",
+        "cpu.h": "c",
+        "cdefs.h": "c",
+        "opt-synchprobs.h": "c"
+    },
+    "editor.tabSize": 4,
+    "editor.insertSpaces": false,
+    "C_Cpp.clang_format_style": "{ SortIncludes: false, BasedOnStyle: LLVM, UseTab: Never, IndentWidth: 4, TabWidth: 4, AlwaysBreakAfterReturnType: TopLevelDefinitions, BraceBreakingStyle: Stroustrup, AllowShortIfStatementsOnASingleLine: false, IndentCaseLabels: false, ColumnLimit: 0 }",
+    "C_Cpp.clang_format_fallbackStyle": "LLVM",
+    "editor.formatOnSave": true,
+}

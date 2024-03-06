@@ -1,0 +1,21 @@
+{
+    "configurations": [
+        {
+            "name": "os161",
+            "includePath": [
+                "${workspaceFolder}/asst1-src/kern/include",
+                "${workspaceFolder}/asst1-src/kern/dev",
+                "${workspaceFolder}/asst1-src/kern/compile/asst1",
+                "${workspaceFolder}/asst1-src/kern/compile/asst1/includelinks"
+            ],
+            "defines": [
+                "_KERNEL"
+            ],
+            "compilerPath": "/usr/bin/gcc",
+            "cStandard": "c11",
+            "cppStandard": "c++17",
+            "intelliSenseMode": "linux-gcc-arm64"
+        }
+    ],
+    "version": 4
+}
