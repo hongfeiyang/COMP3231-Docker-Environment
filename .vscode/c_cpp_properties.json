@@ -5,8 +5,8 @@
             "includePath": [
                 "${workspaceFolder}/asst2-src/kern/include",
                 "${workspaceFolder}/asst2-src/kern/dev",
-                // "${workspaceFolder}/asst1-src/kern/compile/asst1",
-                "${workspaceFolder}/asst2-src/kern/compile/asst2/includelinks"
+                "${workspaceFolder}/asst2-src/kern/compile/ASST2",
+                "${workspaceFolder}/asst2-src/kern/compile/ASST2/includelinks"
             ],
             "defines": [
                 "_KERNEL"
