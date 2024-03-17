@@ -6,7 +6,10 @@
         "random": "c",
         "cpu.h": "c",
         "cdefs.h": "c",
-        "opt-synchprobs.h": "c"
+        "opt-synchprobs.h": "c",
+        "threadprivate.h": "c",
+        "switchframe.h": "c",
+        "thread.h": "c"
     },
     "editor.tabSize": 4,
     "editor.insertSpaces": false,

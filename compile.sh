@@ -1,4 +1,7 @@
 #!/bin/sh
 
-cd ~/cs3231/asst1-src/kern/compile/ASST1
+ASST=asst2
+BUILD=ASST2
+
+cd ~/cs3231/"${ASST}"-src/kern/compile/"${BUILD}"
 bmake && bmake install
