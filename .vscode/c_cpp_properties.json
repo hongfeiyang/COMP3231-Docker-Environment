@@ -11,10 +11,10 @@
             "defines": [
                 "_KERNEL"
             ],
-            "compilerPath": "/usr/bin/gcc",
+            "compilerPath": "/os161/tools/bin/os161-gcc",
             "cStandard": "c11",
             "cppStandard": "c++17",
-            "intelliSenseMode": "linux-gcc-arm64"
+            "intelliSenseMode": "gcc-x64"
         }
     ],
     "version": 4

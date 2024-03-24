@@ -26,3 +26,6 @@ chmod +x ../../conf/newvers.sh
 bmake
 bmake install
 
+# download config file
+cd ~/cs3231/root
+wget -O sys161.conf http://cgi.cse.unsw.edu.au/~cs3231/24T1/assignments/"${ASST}"/sys161.conf
