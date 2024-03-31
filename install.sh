@@ -8,6 +8,8 @@ BUILD=ASST2
 cd ~/cs3231/"${ASST}"-src
 ./configure
 # bmake WERROR="-Wno-error=uninitialized"
+
+cd ~/cs3231/"${ASST}"-src
 bmake # for asst 2, need to build and install the user-level programs that will be run by your kernel in this assignment
 bmake install
 
