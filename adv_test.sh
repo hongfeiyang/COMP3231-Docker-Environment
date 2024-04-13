@@ -1,11 +1,13 @@
 #!/bin/sh
 
+ASST=asst3
+BUILD=ASST3
 
-cd ~/cs3231/asst2-src/userland/testbin/asst2/
+cd ~/cs3231/"${ASST}"-src/userland/testbin/"${ASST}"/
 bmake && bmake install
-cd ~/cs3231/asst2-src
+cd ~/cs3231/"${ASST}"-src
 ./configure
-cd ~/cs3231/asst2-src/kern/conf
-./config ASST2
-cd ../compile/ASST2
+cd ~/cs3231/"${ASST}"-src/kern/conf
+./config "${BUILD}"
+cd ../compile/"${BUILD}"
 bmake depend && bmake && bmake install

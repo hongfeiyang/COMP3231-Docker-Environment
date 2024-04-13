@@ -3,10 +3,10 @@
         {
             "name": "os161",
             "includePath": [
-                "${workspaceFolder}/asst2-src/kern/include",
-                "${workspaceFolder}/asst2-src/kern/dev",
-                "${workspaceFolder}/asst2-src/kern/compile/ASST2",
-                "${workspaceFolder}/asst2-src/kern/compile/ASST2/includelinks"
+                "${workspaceFolder}/asst3-src/kern/include",
+                "${workspaceFolder}/asst3-src/kern/dev",
+                "${workspaceFolder}/asst3-src/kern/compile/ASST3",
+                "${workspaceFolder}/asst3-src/kern/compile/ASST3/includelinks"
             ],
             "defines": [
                 "_KERNEL"

@@ -1,7 +1,7 @@
 #!/bin/sh
 
-ASST=asst2
-BUILD=ASST2
+ASST=asst3
+BUILD=ASST3
 
 # Configure
 
